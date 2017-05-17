@@ -1,0 +1,14 @@
+---
+layout: default
+---
+  <article>
+    <header>
+      <h1 class="post-title">{{ page.title }}</h1>
+      <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.tags %} • <em>{{ page.tags }}</em> {% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+    </header>
+
+    <section>
+      {{ content }}
+    </section>
+
+  </article>
