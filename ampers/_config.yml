@@ -17,7 +17,7 @@ title: amperstories
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   all the stories, at once
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/amperstories" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
