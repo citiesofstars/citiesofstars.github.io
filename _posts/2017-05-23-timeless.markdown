@@ -2,5 +2,6 @@
 layout: post
 title: 002. timeless
 tags: time
+published: true
 ---
-It has been five years since 2012. Half a decade. So much has happened, so much has changed. Here we find ourselves again.
+It has been five years since 2012. Half a decade. So much has happened, so much has changed. Here we find ourselves again, wondering.
